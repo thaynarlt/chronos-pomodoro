@@ -1,4 +1,4 @@
-//PascalCase
+//PascalCase teste
 
 import { TimerIcon } from 'lucide-react';
 import { Heading } from './components/Heading';
